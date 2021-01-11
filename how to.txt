@@ -1,5 +1,8 @@
-um auf github hochzuladen einfach die 
-"refresh.bat" ausführen
+~~ um auf github hochzuladen einfach die 
+"refresh.bat" ausführen ~~
 
-um es runter zu laden erst alles löschen 
-und dann die "runterladen.bat" ausführen 
+~~ um es runter zu laden erst alles löschen 
+und dann die "runterladen.bat" ausführen ~~
+
+
+
