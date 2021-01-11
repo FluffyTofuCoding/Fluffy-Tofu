@@ -1,0 +1,29 @@
+#headlist ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: rgb(39, 39, 39);
+    position: fixed;
+    top: 0;
+    width: 99%;
+}
+#headlist li a {
+    display: block;
+    color: white;
+    padding: 15px 23px;
+    text-align: center;
+    text-decoration: none;
+}
+#headlist li a:hover {
+    background-color: rgb(138, 47, 47);
+}
+#headlist a {
+    display: block;
+    padding: 5px;
+    margin-right: 2px;
+    background-color: #161616;
+}
+#headlist li {
+    float: left;
+}
