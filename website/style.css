@@ -11,7 +11,7 @@
 #headlist li a {
     display: block;
     color: white;
-    padding: 14px 16px;
+    padding: 15px 23px;
     text-align: center;
     text-decoration: none;
 }
@@ -20,7 +20,8 @@
 }
 #headlist a {
     display: block;
-    padding: 8px;
+    padding: 5px;
+    margin-right: 2px;
     background-color: #161616;
 }
 #headlist li {
