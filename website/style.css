@@ -1,3 +1,7 @@
+body {
+    background-image: url("img/rl.png");
+    background-size: 100%;
+}
 #headlist ul{
     list-style-type: none;
     margin: 0px;
