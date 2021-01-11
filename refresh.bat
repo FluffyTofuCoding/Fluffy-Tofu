@@ -1,6 +1,7 @@
 git init
 git add .
+git status
+git commit -m "commit"
+git pull
+git push
 git branch -M main
-git commit -m "first message"
-git branch -M main
-git push -u origin main
