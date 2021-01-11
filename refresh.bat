@@ -1,4 +1,5 @@
 git init
-git commit -m "first commit"
+git add .
+git status
 git branch -M main
 git push -u origin main
