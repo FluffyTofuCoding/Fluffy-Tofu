@@ -2,6 +2,6 @@ git init
 git add .
 git status
 git commit -m "commit"
+git branch -avv
 git pull
-git branch -M main
-git push
+git push -u origin main
